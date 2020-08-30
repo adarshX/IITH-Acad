@@ -1,3 +1,3 @@
 
-# EE5602_Problistic Graphical Models (PGM)
+# EE5602 Probabilistic Graphical Models (PGM)
 Assignemnts done duirng PGM course using `Python`
