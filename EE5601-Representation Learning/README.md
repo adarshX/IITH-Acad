@@ -1,2 +1,2 @@
-# EE-5601
-Representation Learning
+# EE5601-Representation Learning
+ Assignemnts done duirng Rep learning course using `Python`
