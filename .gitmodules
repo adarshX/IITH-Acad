@@ -1,3 +1,6 @@
 [submodule "EE2230-Power"]
 	path = EE2230-Power
 	url = https://github.com/adarshX/EE2230.git
+[submodule "EE5601-Representation Learning"]
+	path = EE5601-Representation Learning
+	url = https://github.com/adarshX/EE-5601.git
